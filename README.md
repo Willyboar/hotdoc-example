@@ -1,2 +1,3 @@
-# hotdoc-example
-hotdoc running example
+# Hotdoc site
+
+Hotdoc running example
